@@ -6,5 +6,6 @@
     [duracao] INT NULL, 
     [professor] NVARCHAR(50) NULL, 
     [inicio] DATETIME NULL, 
+    [unidade] NVARCHAR(50) NULL, 
     CONSTRAINT [FK_AulaTab_CursoTab] FOREIGN KEY ([Id]) REFERENCES [CursoTab]([Id])
 )
