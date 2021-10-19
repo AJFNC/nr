@@ -1,0 +1,6 @@
+﻿ALTER SERVER ROLE [sysadmin] ADD MEMBER [DESKTOP-HI27ULF\Alexandre];
+
+
+GO
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT SERVICE\SQLWriter];
+

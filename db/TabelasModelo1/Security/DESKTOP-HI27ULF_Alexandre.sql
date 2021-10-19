@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [DESKTOP-HI27ULF\Alexandre]
+    FROM WINDOWS;
+
